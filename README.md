@@ -1,8 +1,6 @@
 # Custom Firmware build
 This build is specifically for Marlin build 2.0.5.3 and is customized to add BlTouch on an Ender 3 Pro with stock motherboard.
 
-
-
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
